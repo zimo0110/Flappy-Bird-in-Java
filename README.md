@@ -10,4 +10,10 @@ Flappy bird game built using Java as the main language, consequently utilising J
 
 ## Setup the Project
 ### Prerequisites
-1. Install
+1. [Install Java ]([https://go.dev/doc/install](https://www.oracle.com/java/technologies/downloads/)https://www.oracle.com/java/technologies/downloads/)
+
+## Project Plan
+1. Build the game using Java
+2. Set up the graphics using AWT
+3. Enhance the graphics using Swing
+4. Deploy the game
